@@ -1,23 +1,19 @@
-```html
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Esat%20Yildiz%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20%26%20Web%20Developer%20%7C%20AI%20%26%20Prompt%20Engineer&descAlignY=55&descSize=18" width="100%"/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Front-End+%26+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Tailwind+CSS+%7C+SCSS;Villa+Rental+%26+Tourism+Booking+Platforms;PHP+%7C+Classic+ASP+%7C+MSSQL+%7C+MySQL;AI-Driven+Web+Development+%26+Prompt+Engineering;Pixel-Perfect%2C+Fast+%26+SEO-Optimized+Websites" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Esat%20Yildiz&fontSize=40&fontColor=ffffff&desc=Front-End%20and%20Web%20Developer&descSize=18" width="100%"/>
   <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Front-End+and+Web+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Villa+Rental+and+Tourism+Platforms;PHP+%7C+Classic+ASP+%7C+MSSQL;AI-Driven+Web+Development" alt="Typing SVG" />
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=Esatyildiz&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20%26%20Optimizing-38BDF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20and%20Optimizing-38BDF8?style=for-the-badge" />
 </div>
 
 <br>
 
 name:        Esat Yıldız  
 role:        Front-End & Web Developer  
-focus:       React · Next.js · Tailwind CSS · SCSS · Villa Rental & Tourism Platforms  
-current:     Building AI-assisted web applications and high-converting villa rental booking systems  
-interests:   Front-End Architecture, Prompt Engineering, UI/UX, SEO & Performance
-```
-
+focus:       React · Next.js · Tailwind CSS · SCSS · Villa & Tourism Platforms  
+current:     Building AI-assisted web applications and villa booking systems  
+interests:   Front-End Architecture, Prompt Engineering, UI/UX, SEO & Performance  
 
 💼 **Over 4 years of active experience** developing fast, modern, and responsive web interfaces.  
 🏡 **Specialized in Villa Rental & Tourism Systems:** Designing reservation systems, filtering mechanisms, and SEO-optimized structures.  
