@@ -1,13 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Esat%20Yıldız%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20%26%20Web%20Developer%20%7C%20AI%20%26%20Prompt%20Engineer&descAlignY=55&descSize=18" width="100%"/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Front-End+%26+Web+Developer+%F0%9F%9A%80;Building+Villa+%26+Tourism+Booking+Platforms;React+%7C+Next.js+%7C+Tailwind+CSS+%7C+SCSS;PHP+%7C+Classic+ASP+%7C+MSSQL+%7C+MySQL;AI-Driven+Web+Development+%26+Prompt+Engineering;Pixel-Perfect%2C+Fast+%26+SEO-Optimized+Websites" alt="Typing SVG" />
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Esatyildiz&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20%26%20Optimizing-38BDF8?style=for-the-badge" />
-</div>
-<br>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba,%20Ben%20Esat%20Yıldız%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=4.+S%C4%B1n%C4%B1f+Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisiyim;.NET+Core+%26+Spring+Boot+ile+%C3%A7al%C4%B1%C5%9F%C4%B1yorum;AI+%2F+ML+Alan%C4%B1na+Tutkuyla+Ba%C4%9Fl%C4%B1y%C4%B1m+%F0%9F%9A%80;Medium%27da+Bilgi+Payla%C5%9F%C4%B1yorum+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" /> </a> <br> <img src="https://komarev.com/ghpvc/?username=ornek-kullanici&label=Profile%20Views&color=38BDF8&style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-38BDF8?style=for-the-badge" /> </div> <br> 
 
 name:        Esat Yıldız  
 role:        Front-End & Web Developer  
