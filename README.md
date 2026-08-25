@@ -1,10 +1,31 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba,%20Ben%20Esat%20Yıldız%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=4.+S%C4%B1n%C4%B1f+Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisiyim;.NET+Core+%26+Spring+Boot+ile+%C3%A7al%C4%B1%C5%9F%C4%B1yorum;AI+%2F+ML+Alan%C4%B1na+Tutkuyla+Ba%C4%9Fl%C4%B1y%C4%B1m+%F0%9F%9A%80;Medium%27da+Bilgi+Payla%C5%9F%C4%B1yorum+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" /> </a> <br> <img src="https://komarev.com/ghpvc/?username=ornek-kullanici&label=Profile%20Views&color=38BDF8&style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-38BDF8?style=for-the-badge" /> </div> <br> 
+```html
+<div align="center">
 
-name:        Esat Yıldız  
-role:        Front-End & Web Developer  
-focus:       React · Next.js · Tailwind CSS · SCSS · Villa & Tourism Platforms  
-current:     Building AI-assisted web applications and villa booking systems  
-interests:   Front-End Architecture, Prompt Engineering, UI/UX, SEO & Performance  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba,%20Ben%20Esat%20Yıldız%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20%26%20Web%20Developer%20%7C%20React%20%26%20Next.js%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Front-End+%26+Web+Developer+%F0%9F%92%BB;React.js+%26+Next.js+ile+%C3%A7al%C4%B1%C5%9F%C4%B1yorum;Modern+UI%2FUX+ve+performans+odakl%C4%B1+uygulamalar+geli%C5%9Ftiriyorum;AI-Assisted+Development+ile+%C3%BCretiyorum+%F0%9F%9A%80;SEO+%26+Web+Performance+ile+ilgileniyorum+%E2%9A%A1" alt="Typing SVG" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ornek-kullanici&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-38BDF8?style=for-the-badge" />
+
+</div>
+
+<br>
+
+name:        Esat Yıldız
+role:        Front-End & Web Developer
+focus:       React · Next.js · JavaScript · Tailwind CSS · SCSS
+stack:       React · Next.js · Tailwind CSS · Bootstrap · jQuery · PHP
+current:     Building modern web applications and AI-assisted solutions
+interests:   Front-End Architecture · UI/UX · SEO · Web Performance · AI
+specialty:   Villa & Tourism Platforms · Booking Systems · Responsive Web Apps
+```
+
 
 💼 **Over 4 years of active experience** developing fast, modern, and responsive web interfaces.  
 🏡 **Specialized in Villa Rental & Tourism Systems:** Designing reservation systems, filtering mechanisms, and SEO-optimized structures.  
