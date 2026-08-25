@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Esat%20Yıldız%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20%26%20Web%20Developer%20%7C%20AI%20%26%20Prompt%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Esat%20Yildiz%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20%26%20Web%20Developer%20%7C%20AI%20%26%20Prompt%20Engineer&descAlignY=55&descSize=18" width="100%"/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Front-End+%26+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Tailwind+CSS+%7C+SCSS;Villa+Rental+%26+Tourism+Booking+Platforms;PHP+%7C+Classic+ASP+%7C+MSSQL+%7C+MySQL;AI-Driven+Web+Development+%26+Prompt+Engineering;Pixel-Perfect%2C+Fast+%26+SEO-Optimized+Websites" alt="Typing SVG" />
   </a>
