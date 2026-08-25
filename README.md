@@ -9,11 +9,7 @@
 
 <br>
 
-name:        Esat Yıldız  
-role:        Front-End & Web Developer  
-focus:       React · Next.js · Tailwind CSS · SCSS · Villa & Tourism Platforms  
-current:     Building AI-assisted web applications and villa booking systems  
-interests:   Front-End Architecture, Prompt Engineering, UI/UX, SEO & Performance  
+
 
 💼 **Over 4 years of active experience** developing fast, modern, and responsive web interfaces.  
 🏡 **Specialized in Villa Rental & Tourism Systems:** Designing reservation systems, filtering mechanisms, and SEO-optimized structures.  
